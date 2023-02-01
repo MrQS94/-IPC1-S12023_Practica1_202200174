@@ -1,1 +1,3 @@
-# -IPC1-S12023_Practica1_202200174
+Nombre completo: Andres Alejandro Quezada Cabrera
+Carné: 202200174
+Nombre de curso y sección: IPC1 sección D
