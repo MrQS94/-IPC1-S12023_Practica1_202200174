@@ -3,7 +3,6 @@ package super25;
 import java.util.Scanner;
 
 /**
- *
  * @author queza
  */
 public class Super25 {
