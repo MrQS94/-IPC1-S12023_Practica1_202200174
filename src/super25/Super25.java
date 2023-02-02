@@ -305,7 +305,7 @@ public class Super25 {
                 }
             }
         }
-        System.out.println("Nombre de la empresa: SUPER25");
+        System.out.println("Nombre de la empresa: SUPER-25");
         System.out.println("Nombre del cajero: Andres Alejandro Quezada Cabrera");
         System.out.println("Nombre del cliente: " + nombreCliente);
         System.out.println("Número de NIT: " + noNIT);
