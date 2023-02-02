@@ -3,6 +3,7 @@ package super25;
 import java.util.Scanner;
 
 /**
+ * 
  * @author queza
  */
 public class Super25 {
@@ -48,7 +49,7 @@ public class Super25 {
 
     public static Boolean ComprobarUser(String nombre, String pass) {
         // cajero_202200174 ipc1_202200174
-        if (!nombre.equals("") || !pass.equals("")) {
+        if (!nombre.equals("cajero_202200174") || !pass.equals("ipc1_202200174")) {
             return false;
         } else {
             return true;
